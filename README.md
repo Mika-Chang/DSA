@@ -1,2 +1,2 @@
 # Data Structures and Algorithms
-Trying to learn data structures and algorithms and c++!
+Me trying to learn data structures, algorithms and c++
